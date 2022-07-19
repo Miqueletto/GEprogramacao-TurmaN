@@ -2,8 +2,13 @@ body {
     background: #0000FF
 }
 
+
 p {
     text-align: center;
+}
+
+#titulo {
+font-size: 40px;
 }
 
 strong {
