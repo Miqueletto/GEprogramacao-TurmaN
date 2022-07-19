@@ -1,5 +1,5 @@
 body {
-    background: #0000FF
+    background: #FFFF00
 }
 
 p {
@@ -11,5 +11,5 @@ p {
 }
 
 strong {
-    color: yellow;
+    background: #0000FF
 }
