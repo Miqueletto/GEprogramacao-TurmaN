@@ -1,6 +1,10 @@
+body {
+    background: #CCCCCC
+}
 p {
-    text-align: center
+    text-align: center;
 }
-h1 {
-    text-align: center
+strong {
+    color: yellow;
 }
+
