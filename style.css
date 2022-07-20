@@ -2,7 +2,7 @@ body {
     background: #5e5e14
 }
 #DISCOVERY {
-    width: 100%;
+    width: 50%;
 }
 p {
     text-align: center;
@@ -12,4 +12,7 @@ p {
 }
 strong {
     color: #0000FF
+}
+.itens {
+    font-style: italic;
 }
